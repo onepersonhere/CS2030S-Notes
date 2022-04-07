@@ -26,4 +26,4 @@ After completing the module, students should:
    - attain proficiency in Java 8 (and above)
    - be equipped with solid programming foundations for further studies in computer science
 
-Please Message me if you need the password to access the Lab Practices - note: I will not give the solutions unless its for practice purposes!
+##Please message me if you need the password to access the Lab Practices - note: I will not give the solutions unless its for practice purposes!
